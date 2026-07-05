@@ -157,7 +157,5 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 </p>
 '''
 
-with open('/mnt/agents/output/README_Cool.md', 'w', encoding='utf-8') as f:
-    f.write(readme)
 
 
